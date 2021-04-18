@@ -3,8 +3,8 @@
 ## GUI Interface of SARA
 
 ```
-$ git clone
-$ cd
+$ git clone https://github.com/inv4sion/sara-gui.git
+$ cd sara-gui
 $ chmod +x install.sh
 $ ./install.sh
 
